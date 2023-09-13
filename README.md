@@ -1,6 +1,6 @@
 ## Список проектов:
 
-### 1. [*Разработка программы "Парк аттракционов"*](https://github.com/olegumnov44/DataScience/tree/master/001%20auto_price_prediction)
+### 1. [*Разработка программы "Парк аттракционов"*](https://github.com/olegumnov44/DataScience/tree/master/001%20DE_ParkOfAttractions
 **Описание проекта:**
 
 
