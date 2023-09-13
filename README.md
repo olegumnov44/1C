@@ -1,6 +1,6 @@
 ## Список проектов:
 
-### 1. [*Разработка программы "Парк аттракционов"*](https://github.com/olegumnov44/DataScience/tree/master/001%20DE_ParkOfAttractions)
+### 1. [*Разработка программы "Парк аттракционов"*](https://github.com/olegumnov44/1C/tree/master/001%20DE_ParkOfAttractions)
 **Описание проекта:**
 
 
